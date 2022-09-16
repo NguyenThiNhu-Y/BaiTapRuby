@@ -1,0 +1,7 @@
+poem.gsub("toast", "honeydew") : thay the
+poem.reverse : đảo thứ tự dòng, thứ tự chữ trong câu, trong từ
+poem.lines.reverse: đạo thứ tự dòng
+poem.lines : mảng các dòng
+join : nối chuỗi
+poem.downcase: chuyển thành chữ thường
+poem.swapcase: hoa thành thường, thường thành hoa
