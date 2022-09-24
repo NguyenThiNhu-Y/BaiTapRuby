@@ -22,7 +22,7 @@ class SinhVien
 
     def diemTrungBinh()
         sum = @diemToan + @diemHoa + @diemLy
-        avg = sum.to_f / 3
+        avg = (sum.to_f / 3).round(2)
         return avg
     end
 
